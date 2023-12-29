@@ -1,13 +1,10 @@
-body {
+.container {
   height: 100vh;
+  padding: 50px 0;
   background-image: url("https://raw.githubusercontent.com/ParkYoungWoong/overwatch-hero-selector-vanilla/master/images/bg.jpg");
   background-size: cover;
   background-repeat: no-repeat;
   background-attachment: fixed;
-}
-
-.container {
-  padding: 50px 0;
 
   .heroes {
     display: flex;
