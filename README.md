@@ -14,8 +14,7 @@
 - [여기를 클릭해주세요](https://github.com/rlatjdgh9612/Overwatch_Hero_Selectors)
 
 
-### Git clone 내려 받기
-- https://github.com/rlatjdgh9612/Overwatch_Hero_Selectors.git
+### Git clone 내려 받기(Termimal)
 
 `git clone https://github.com/rlatjdgh9612/Overwatch_Hero_Selectors.git`
 
