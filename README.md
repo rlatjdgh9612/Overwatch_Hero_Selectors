@@ -12,3 +12,11 @@
 
 ### Github 소스 코드
 - [여기를 클릭해주세요](https://github.com/rlatjdgh9612/Overwatch_Hero_Selectors)
+
+
+### Git clone 내려 받기
+- https://github.com/rlatjdgh9612/Overwatch_Hero_Selectors.git
+
+`git clone https://github.com/rlatjdgh9612/Overwatch_Hero_Selectors.git`
+
+(터미널로 위에 있는 명령어를 입력시면 프로젝트 폴더를 clone 받을 수 있습니다.)
